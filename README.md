@@ -2,10 +2,6 @@
 
 A simplified version of Google Forms built with **React** (Frontend) and **FastAPI** (Backend).
 
-## 🎥 Demo Video
-
-[Watch the demo video here](https://drive.google.com/file/d/1g5U2eeqMffocFP6lhdrE1mgsoC9PNRYZ/view?usp=drivesdk)
-
 ## ✨ Features
 
 ### Admin View
