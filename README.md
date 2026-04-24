@@ -2,6 +2,16 @@
 
 A simplified version of Google Forms built with **React** (Frontend) and **FastAPI** (Backend).
 
+## 📸 Screenshots
+
+![Admin Dashboard](<img width="1916" height="963" alt="Screenshot 2026-04-24 141144" src="https://github.com/user-attachments/assets/8a5972f9-e274-4ee0-9c4d-2325493f8db6" />)
+
+![Form Builder View](<img width="1909" height="966" alt="Screenshot 2026-04-24 141007" src="https://github.com/user-attachments/assets/26471bc0-aa24-4cb9-8232-4f32d6f5d909" />)
+
+![Response View](<img width="1905" height="959" alt="Screenshot 2026-04-24 141224" src="https://github.com/user-attachments/assets/9c145247-7621-4ee5-9008-c2c6b13b3f35" />)
+
+---
+
 ## ✨ Features
 
 ### Admin View
